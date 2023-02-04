@@ -1,3 +1,13 @@
 Ecommerce Website
 1. Include libraries - Bootstrap css Framework
 2. Create a Navbar - L.h.s will be logo and r.h.s Home, wishlist
+
+git clone- first time pull request from repo to local
+git pull- update code on the specific branch
+git push- update code from local to repo
+git add - stages for changes to git hub
+git commit - commit with messeage
+git branch - creates the branch on yout local
+git checkout - switches to diffrent branch
+git fetch - gets the branch from repo to local
+git branch -D - delete sub branch
